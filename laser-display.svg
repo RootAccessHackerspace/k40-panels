@@ -28,7 +28,7 @@
      inkscape:cx="165.52398"
      inkscape:cy="148.84303"
      inkscape:document-units="px"
-     inkscape:current-layer="layer4"
+     inkscape:current-layer="layer6"
      showgrid="false"
      fit-margin-top="0"
      fit-margin-left="0"
@@ -123,7 +123,15 @@
   <g
      inkscape:groupmode="layer"
      id="layer6"
-     inkscape:label="Screen" />
+     inkscape:label="Screen">
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#0000fe;stroke-width:3.77952756;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect886"
+       width="302.36221"
+       height="94.48819"
+       x="363.65491"
+       y="98.172447" />
+  </g>
   <g
      inkscape:groupmode="layer"
      id="layer7"
