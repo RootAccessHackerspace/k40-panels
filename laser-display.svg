@@ -28,7 +28,7 @@
      inkscape:cx="165.52398"
      inkscape:cy="148.84303"
      inkscape:document-units="px"
-     inkscape:current-layer="layer3"
+     inkscape:current-layer="layer4"
      showgrid="false"
      fit-margin-top="0"
      fit-margin-left="0"
@@ -104,4 +104,28 @@
        x="21.023623"
        y="65.928192" />
   </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="Switches">
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#fe0000;stroke-width:3.77952766;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect879"
+       width="107.71654"
+       height="83.149605"
+       x="559.62451"
+       y="500.21317" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="Indicators" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer6"
+     inkscape:label="Screen" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer7"
+     inkscape:label="Text" />
 </svg>
