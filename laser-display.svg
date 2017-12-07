@@ -28,7 +28,7 @@
      inkscape:cx="183.70673"
      inkscape:cy="415.67403"
      inkscape:document-units="px"
-     inkscape:current-layer="layer5"
+     inkscape:current-layer="g926"
      showgrid="true"
      fit-margin-top="0"
      fit-margin-left="0"
@@ -119,7 +119,8 @@
        width="107.71654"
        height="83.149605"
        x="559.62451"
-       y="500.21317" />
+       y="500.21317"
+       inkscape:label="Power" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -127,7 +128,7 @@
      inkscape:label="Indicators">
     <g
        id="g926"
-       inkscape:label="Current">
+       inkscape:label="milliampere">
       <ellipse
          ry="71.347168"
          rx="71.347176"
@@ -148,7 +149,8 @@
          cy="232.01767"
          cx="279.30719"
          id="path902-3"
-         style="opacity:1;fill:none;fill-opacity:1;stroke:#b90000;stroke-width:1.18693662;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#b90000;stroke-width:1.18693662;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         inkscape:label="path902-3" />
     </g>
   </g>
   <g
@@ -156,12 +158,13 @@
      id="layer6"
      inkscape:label="Screen">
     <rect
-       style="opacity:1;fill:none;fill-opacity:1;stroke:#0000fe;stroke-width:3.77952756;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#0000fe;stroke-width:3.77952766;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect886"
        width="302.36221"
        height="94.48819"
        x="363.65491"
-       y="98.172447" />
+       y="98.172447"
+       inkscape:label="LCD" />
   </g>
   <g
      inkscape:groupmode="layer"
