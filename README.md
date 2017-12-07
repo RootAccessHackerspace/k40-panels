@@ -6,4 +6,4 @@ Currently, the panel is the default one, but will (ideally) be replaced by a cus
 Current SVG state: not done.
 
 ## Layout
-![K40 Display Panel](laser display.svg "K40 Display Panel")
+![K40 Display Panel](laser-display.svg "K40 Display Panel")
